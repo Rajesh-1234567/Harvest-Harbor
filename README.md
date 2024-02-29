@@ -1,3 +1,4 @@
+![Alt Text](path/to/your/image.jpg)
 # Harvest Harbor: Empowering Farmers with Technology
 
 Welcome to Harvest Harbor, an end-to-end solution designed to revolutionize farming through advanced technology and personalized services. Our platform aims to empower farmers with actionable insights, tools, and resources to optimize crop management, enhance yields, detect diseases, and maximize profitability. This README file provides an overview of Harvest Harbor's features, services, and how to get started with our platform.
