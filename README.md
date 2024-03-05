@@ -4,6 +4,11 @@
 Welcome to Harvest Harbor, an end-to-end solution designed to revolutionize farming through advanced technology and personalized services. Our platform aims to empower farmers with actionable insights, tools, and resources to optimize crop management, enhance yields, detect diseases, and maximize profitability. This README file provides an overview of Harvest Harbor's features, services, and how to get started with our platform.
 Link - https://harvest-harbor.netlify.app/
 
+# Four Machine learning model
+1- Crop Recomendation - https://github.com/Rajesh-1234567/CROP-RECOMENDATION
+2- Plant disease detection - https://github.com/Rajesh-1234567/Plant-Disease_Detection
+3- Fertilizer prediction - https://github.com/Rajesh-1234567/Fertiliser_Prediction
+4- Crop yield prediction -  https://github.com/Rajesh-1234567/Crop-Yield-Prediction
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
