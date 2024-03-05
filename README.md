@@ -10,12 +10,12 @@ Link - https://harvest-harbor.netlify.app/
 3- Fertilizer prediction - https://github.com/Rajesh-1234567/Fertiliser_Prediction
 4- Crop yield prediction -  https://github.com/Rajesh-1234567/Crop-Yield-Prediction
 ## Table of Contents
-### 1. [Introduction](#introduction)
-### 2. [Features](#features)
-### 3. [Services Offered](#services-offered)
-### 4. [Getting Started](#getting-started)
-### 5. [Contributing](#contributing)
-### 6. [Contact Us](#contact-us)
+## 1. [Introduction](#introduction)
+## 2. [Features](#features)
+## 3. [Services Offered](#services-offered)
+## 4. [Getting Started](#getting-started)
+## 5. [Contributing](#contributing)
+## 6. [Contact Us](#contact-us)
 
 ## Introduction
 Harvest Harbor is a comprehensive platform built to address the diverse needs of farmers by leveraging cutting-edge technologies such as machine learning, image recognition, and blockchain. Our goal is to provide farmers with the tools and knowledge necessary to make informed decisions, improve crop yields, and drive sustainable farming practices.
